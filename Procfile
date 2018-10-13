@@ -1,1 +1,1 @@
-bot: python3.6 voice-text-bot.py
+bot: python voice-text-bot.py
