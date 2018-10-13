@@ -71,9 +71,6 @@ pyserial==3.0.1
 
 
 python-dateutil==2.7.3
-
-python-debian==0.1.27
-
 python-systemd==231
 
 PyYAML==3.11
