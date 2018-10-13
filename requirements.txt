@@ -71,8 +71,6 @@ pyserial==3.0.1
 
 
 python-dateutil==2.7.3
-python-systemd==231
-
 PyYAML==3.11
 
 requests==2.19.1
