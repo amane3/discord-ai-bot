@@ -11,8 +11,6 @@ boto3==1.9.22
 botocore==1.12.22
 configobj==5.0.6
 
-cryptography==1.2.3
-
 discord==0.0.2
 
 discord.py==0.16.12
