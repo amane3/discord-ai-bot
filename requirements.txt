@@ -77,14 +77,3 @@ PyYAML==3.11
 
 requests==2.19.1
 
-roman==2.0.0
-
-ssh-import-id==5.5
-
-ufw==0.35
-
-unattended-upgrades==0.1
-
-urllib3==1.23
-
-websockets==3.4
