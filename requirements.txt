@@ -21,7 +21,7 @@ Jinja2==2.8
 jmespath==0.9.3
 jsonpatch==1.10
 jsonpointer==1.9
-language-selector==0.1
+
 MarkupSafe==0.23
 multidict==4.4.2
 oauthlib==1.0.3
