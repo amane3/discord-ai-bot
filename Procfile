@@ -1,1 +1,1 @@
-bot: python aibot.py
+bot: python3.6 aibot.py
