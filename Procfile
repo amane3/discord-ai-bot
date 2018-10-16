@@ -1,1 +1,1 @@
-bot: python3.6 aibot.py
+bot: python3.6 aibot-d.py
