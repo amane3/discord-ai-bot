@@ -1,1 +1,1 @@
-bot: python voice-text-bot.py
+bot: python aibot.py
